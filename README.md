@@ -1,2 +1,2 @@
-http://indreshkashyap.epizy.com/nic
-https://thelazylearner.com/
+#http://indreshkashyap.epizy.com/nic
+#https://thelazylearner.com/
